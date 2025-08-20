@@ -28,7 +28,7 @@ const ArtistDetail: React.FC = () => {
         const fetchArtist = async () => {
             setLoading(true);
             try {
-                const response = await fetch('/data/artists.json');
+                const response = await fetch('./data/artists.json');
                 const artists: Artist[] = await response.json();
                 const foundArtist = artists.find(a => a.slug === slug);
                 setArtist(foundArtist);
