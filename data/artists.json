@@ -1,0 +1,97 @@
+
+[
+  {
+    "name": "Muhammed Sufiyan",
+    "slug": "muhammed-sufiyan",
+    "bio": "The founder and lead music producer of Sarigama Music Corner. With a decade of experience in sound engineering and composition, Sufiyan's vision is to blend traditional melodies with contemporary electronic beats, creating a unique sonic identity for SMC. His work is characterized by intricate sound design, emotive chord progressions, and a deep respect for musical heritage. He personally oversees every project at the label, ensuring the highest standards of quality and artistic integrity.",
+    "photo": "https://i.scdn.co/image/ab6761610000e5eb2d1f0b4d45d6a2f3e8f8c8d8",
+    "socials": {
+      "spotify": "https://open.spotify.com/artist/1h3k52p5NotPsgkI5lSj6h",
+      "youtube": "https://youtube.com",
+      "instagram": "https://instagram.com"
+    },
+    "songs": [
+      {
+        "title": "Sufiyan Kizhisseri – Latest Track",
+        "spotifyUrl": "https://open.spotify.com/track/6gI4l8QN9FDY6dDQHD7rNS",
+        "coverImage": "https://i.ibb.co/gR36Yc7/song-cover-1.png",
+        "description": "A soulful and electrifying track that defines the new sound of SMC."
+      },
+      {
+        "title": "ISHQ",
+        "spotifyUrl": "https://open.spotify.com/track/4s7xM0d2ePA2S6a43g5a5V",
+        "coverImage": "https://i.ibb.co/gR36Yc7/song-cover-1.png",
+        "description": "A powerful track about love and passion."
+      },
+      {
+        "title": "FARS",
+        "spotifyUrl": "https://open.spotify.com/track/1yT2d4csLKhv2cm2QcSRfT",
+        "coverImage": "https://i.ibb.co/Xz9J2Yc/song-cover-2.png",
+        "description": "An experimental soundscape that pushes the boundaries of electronic music."
+      }
+    ]
+  },
+  {
+    "name": "Derby",
+    "slug": "derby",
+    "bio": "Derby is a vocalist with a powerful and emotive voice. Her collaborations with SMC have resulted in chart-topping hits that resonate with audiences worldwide. Her style ranges from soulful ballads to high-energy pop anthems, showcasing a remarkable versatility that makes her one of the most exciting voices in the industry today.",
+    "photo": "https://i.scdn.co/image/ab67616d0000b273b754034870f2526279f64797",
+    "socials": {
+      "spotify": "https://open.spotify.com/artist/0yzzQN2RBZg2f2sStS4Y5A",
+      "youtube": "https://youtube.com",
+      "instagram": "https://instagram.com"
+    },
+    "songs": [
+       {
+        "title": "Golden Hour - Ethereal",
+        "spotifyUrl": "https://open.spotify.com/track/3cIIHeBrc1YjjDmda5a2AD",
+        "coverImage": "https://i.ibb.co/YhB0V5X/song-cover-3.png",
+        "description": "A vibrant and uplifting single that captures the magic of dusk. Featuring enchanting vocals."
+      }
+    ]
+  },
+  {
+    "name": "Firoz Maravancheri",
+    "slug": "firoz-maravancheri",
+    "bio": "Firoz Maravancheri is a popular singer in the Mappila music scene, known for his devotional songs and soulful voice that connects with a wide audience. His performances are praised for their emotional depth and spiritual resonance, making him a beloved figure among fans of traditional and devotional music.",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9Gm-p8sGEQni3E0mvyKlcJGnFHo_ZX0VtQ&s",
+    "socials": {
+      "spotify": "https://open.spotify.com/artist/2v9aQCn6SDyV1b4d852HY9",
+      "youtube": "https://youtube.com",
+      "instagram": "https://instagram.com"
+    },
+    "songs": [
+      {
+        "title": "Pathi Palathilum",
+        "spotifyUrl": "https://open.spotify.com/track/0vLMWOFhEoD2xAJF7f6EAr?si=a6d4c8ba059547d7",
+        "coverImage": "https://i.scdn.co/image/ab67616d0000b273a9e1e3f89812f2771239c595",
+        "description": "A devotional track that highlights Firoz Maravancheri's emotive vocal style."
+      }
+    ]
+  },
+  {
+    "name": "Aria Vega",
+    "slug": "aria-vega",
+    "bio": "Aria Vega is the label's rising star, a vocalist with a voice that is both powerful and ethereal. Her genre-bending style blends dream pop with classical Indian influences, creating a sound that is entirely her own. Aria is currently in the studio with Muhammed Sufiyan, working on her debut EP.",
+    "photo": "https://images.unsplash.com/photo-1512413316925-fd4b93382762?q=80&w=1974&auto=format&fit=crop",
+    "socials": {
+      "spotify": "https://open.spotify.com",
+      "youtube": "https://youtube.com",
+      "instagram": "https://instagram.com"
+    },
+    "songs": [
+      {
+        "title": "Echoes in Rain",
+        "spotifyUrl": "https://open.spotify.com/track/3cIIHeBrc1YjjDmda5a2AD",
+        "coverImage": "https://i.ibb.co/Xz9J2Yc/song-cover-2.png",
+        "description": "A hauntingly beautiful debut single."
+      },
+       {
+        "title": "Neon Dreams",
+        "spotifyUrl": "https://open.spotify.com/track/1GD7ZLvL1Wce7knIwFzkwR",
+        "coverImage": "https://i.ibb.co/YhB0V5X/song-cover-3.png",
+        "description": "An upbeat track about city nights."
+      }
+    ]
+  }
+]
